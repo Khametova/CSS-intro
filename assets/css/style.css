@@ -1,5 +1,6 @@
 h2 {
     color: goldenrod;
+
 }
 
 p {
@@ -16,6 +17,15 @@ p {
 button {
     color: gold !important;
 }
+
+body {
+    font-family: sans-serif;
+    border: 5px red solid;
+    text-align: center;
+    
+}
+
+
 subscribe-btn : kebab-case
 /*SudscribeBtn : camelCase
                 loverCamelCase
