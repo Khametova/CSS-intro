@@ -1,3 +1,27 @@
 h2 {
     color: goldenrod;
 }
+
+p {
+    font-size: 20px;
+}
+.annotation {
+    font-size: 10px;
+}
+
+#subscribe-btn {
+    color: darkred;
+}
+
+button {
+    color: gold !important;
+}
+subscribe-btn : kebab-case
+/*SudscribeBtn : camelCase
+                loverCamelCase
+                Upper...(PascalCase)
+
+
+subscribe_btn : snake_case
+I_AM_CONSTANT
+/*
